@@ -1,4 +1,6 @@
-public class MyFile {
+package ru.epam.dmitrych.sandbox;
+
+public class MyFirstProgram {
 
 	public static void main(String[] args){
 
