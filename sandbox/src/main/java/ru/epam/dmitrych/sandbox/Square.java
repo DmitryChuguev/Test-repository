@@ -9,4 +9,11 @@ public class Square {
     public Square(double l){
         this.l = l;
     }
+
+    public double area() {
+        return this.l * this.l;
+        int[] array = null;
+        array = new int[]{1};
+        System.out.println(array);
+    }
 }
